@@ -2,7 +2,7 @@
 
 1.1  Problem Statement
 
-Stage-Status phrases for Sales & Support in Slam Activity Remarks
+Stage-Status phrases for Sales & Support in Slam(CRM) Activity Remarks
 Using sentiment analysis to find who puts the most positive words and negative words
 
 1.2  Data Description
